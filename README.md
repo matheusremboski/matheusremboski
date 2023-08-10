@@ -1,7 +1,7 @@
 - 👋 oi. sou @matheus.henrique44
 - 👀 estou estudando no alura
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with the studies (Procuro colaborar com os estudos)
 - gosto de games e de assistir filmes
 
 <!---
