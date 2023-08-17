@@ -2,7 +2,7 @@
 - 👀 estou estudando no alura
 
 - 💞️ I’m looking to collaborate with the studies (Procuro colaborar com os estudos)
-- gosto de games e de assistir filmes
+- 
 
 <!---
 matheusremboski/matheusremboski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
